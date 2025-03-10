@@ -1,1 +1,3 @@
-# Algorithms
+# The file Convex_hull_DAG.py implements the minimal d-separator absorption algorithm to find the directed convex hull containing the set of variables of interest in a directed acyclic graph (DAG).
+# The Convex_hull_UG.py file implements the minimal separator absorption algorithm and the induing path absorption algorithm to find the convex hull that contains the set of interest in an undirected graph.
+# The LPD_UG.py file implements the local decomposition of an undirected graph, where the convex hull search algorithm utilizes the minimal separator absorption algorithm and the inducing path absorption algorithm, respectively.
